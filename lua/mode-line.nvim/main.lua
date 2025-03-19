@@ -1,0 +1,1 @@
+local config = require("mode-line.nvim.config")
